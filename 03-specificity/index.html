@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>01 - CSS Training - Aarón García @aarongarciah</title>
+    <style>
+      .nav li a {
+        color: red;
+      }
+
+      /* Won't apply 😢 Watch out the source order! */
+      .nav li.selected a {
+        color: green;
+      }
+
+      .nav li:not(:last-child) a {
+        color: blue;
+      }
+    </style>
+  </head>
+  <body id="body">
+    <nav id="nav" class="nav">
+      <ul>
+        <li class="item"><a class="link" href="#">One</a></li>
+        <li class="item selected"><a class="link" href="#">Two</a></li>
+        <li class="item"><a class="link" href="#">Three</a></li>
+        <li class="item"><a class="link" href="#">Four</a></li>
+      </ul>
+    </nav>
+  </body>
+</html>
