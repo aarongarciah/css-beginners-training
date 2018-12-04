@@ -388,8 +388,6 @@ Always write the less specific selector that you need. Now you know why it's so 
 }
 ```
 
-**[Next chapter 👉](../04-inheritance)**
-
 ## Learn more
 
 - [Specificity](https://developer.mozilla.org/en-US/docs/Web/CSS/Specificity) - MDN
@@ -400,3 +398,5 @@ Always write the less specific selector that you need. Now you know why it's so 
 - [Specificity Wars](https://stuffandnonsense.co.uk/archives/css_specificity_wars.html) - Stuff & Nonsense, Andy Clarke
 - [CSS Specificity (The Shining)](http://cssspecificity.com) - CSS Dev Conference
 - [The Importance of !important: Forcing Immutability in CSS](https://csswizardry.com/2016/05/the-importance-of-important/) - Harry Roberts
+
+**[Next chapter 👉](../04-inheritance)**
