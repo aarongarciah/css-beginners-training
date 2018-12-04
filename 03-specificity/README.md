@@ -370,7 +370,7 @@ Not very useful for CSS-in-JS solutions.
 
 ### Emotion (Styled Components)
 
-TODO
+Emotion generates CSS class names, we must care about source order and specificity as if we were writing regular CSS.
 
 ## Conclusion
 
