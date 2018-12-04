@@ -2,6 +2,8 @@
 
 This repo was written for an internal workplace training. It covers CSS basic but sometimes misundertood topics. This little training is aimed at javascript developers without any love for CSS or backend/fullstack/fullsnack developers who code CSS without any kind of desire.
 
+This repository is probably meaningless without further explanation 😁
+
 Just kidding. Relax, it's just CSS.
 
 ## Sections
