@@ -6,18 +6,22 @@
   @import url('about.css');
   ```
 - Inline critical CSS to avoid blocking the render of the page.
+
   ```html
   <html>
     <head>
       <style>
-        /* Critial CSS goes here*/
+        /* Critical CSS goes here*/
       </style>
+      <!-- Non critical CSS goes here -->
+      <link rel="stylesheet" href="styles.css" />
     </head>
     <body>
       ...
     </body>
   </html>
   ```
+
 - Tell the browser to load CSS as fast as possible.
   ```html
   <link rel="preload" as="style" href="style.css" onload="this.rel='stylesheet'" />
