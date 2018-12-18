@@ -28,8 +28,8 @@ elements  <  .classes  <  #IDs  <  inline styles  <  !important
 ```
 
 Importance of separating numbers:
-- 💩 0010 > 00013
-- ✅ 0|0|1|0 > 0|0|0|13
+- 💩 010 > 0013
+- ✅ 0|1|0 > 0|0|13
 
 ### Examples
 
