@@ -12,5 +12,5 @@ Just kidding. Relax, it's just CSS.
 2. [The Cascade](02-cascade)
 3. [Specificity](03-specificity)
 4. [Inheritance](04-inheritance)
-5. [Progessive enhancement](05-progressive-enhancement)
+5. [Progressive enhancement](05-progressive-enhancement)
 6. [Performance](06-performance)
