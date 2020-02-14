@@ -9,7 +9,7 @@
 ## Inherited properties
 
 - `font-size`, `color`, `text-align`, etc.
-- Whe no value specified, the element gets the computed value of its parent.
+- When no value is specified, the element gets the computed value of its parent.
 - Only the root element (`html` or `:root`) gets the initial value for a given property.
 
 ## Non-inherited properties
