@@ -105,9 +105,9 @@ li a {
 }
 ```
 
-### `:not` pseudo-class
+### `:not` the negation pseudo-class
 
-The `:not` pseudo-class has no weight when calculating specificity, but the selectors included inside do.
+The `:not` pseudo-class has no weight when calculating the specificity, but the selectors included inside do.
 
 ```css
 .nav li a {
