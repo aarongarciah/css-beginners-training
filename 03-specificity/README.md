@@ -105,7 +105,7 @@ li a {
 }
 ```
 
-### `:not` the negation *pseudo-class*
+### `:not` the negation pseudo-class
 
 The `:not` pseudo-class has no weight when calculating the specificity, but the selectors included inside do.
 
@@ -370,7 +370,7 @@ Not very useful for CSS-in-JS solutions.
 
 ### Emotion (Styled Components)
 
-Emotion generate CSS class names, we must care about source order and specificity as if we were writing regular CSS.
+Emotion generates CSS class names, we must care about source order and specificity as if we were writing regular CSS.
 
 ## Conclusion
 
